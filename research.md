@@ -1,1 +1,4 @@
-Research here
+# Student Portfolio Research
+The article discussed the impacts of setting goals. Firstly, Bardach, L., Daumiller, M., & Lüftenegger, M. (2023) discusses how goals should be structured together in an environment, which I somewhat kept with as I had outlined my weekly/daily routine creating a lifestyle to aim for. Secondly, the article also discusses how having mastery goals were found to be positively related to social development goals. Overall, the article was helpful but was very broad and discussed many topics that were still not fully researched, such as how bullying affects setting social-related goals.
+# Works Cited
+  Bardach, L., Daumiller, M., & Lüftenegger, M. (2023). Multiple Social and Academic Achievement Goals: Students’ Goal Profiles and Their Linkages. The Journal of Experimental Education, 91(4), 655–675. https://doi.org/10.1080/00220973.2022.2081959
